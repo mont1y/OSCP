@@ -1,6 +1,6 @@
 # OSCP
 ---
-Date started: 2024-12-29
+Date started: 2025-1..
 
 ## [[Notes]]
 
